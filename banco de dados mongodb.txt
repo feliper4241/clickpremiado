@@ -1,0 +1,3 @@
+banco de dados mongodb user: mrfeliper61 senha: 11MbdQwn2ROyOsxu
+
+mongodb+srv://mrfeliper61:<db_password>@cluster0.c7ozx2q.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
